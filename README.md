@@ -1,8 +1,10 @@
 # Bellabeat Data Analysis Case Study
 ## Business Task:
 #### The objective is to analyze smart device usage data to understand consumer trends and how they can be applied to Bellabeat’s marketing strategy for one of their products.
-## Tools:
+## Tools used:
 #### SQL, SQL Server Management Studio, MS Excel, R, R Studio, MS PowerPoint Presentation 
+## Dataset used:
+#### [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 ## Tasks completed:
 1. **Developed Business Task and Identified Key Stakeholders:**
     - Demonstrated ability to understand business objectives and translate them into actionable tasks.
